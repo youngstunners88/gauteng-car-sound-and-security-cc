@@ -1,0 +1,20 @@
+{
+  "businessName": "Gauteng Car Sound And Security",
+  "category": "auto",
+  "brandColors": {
+    "primary": "#D63031",
+    "secondary": "#FF7675",
+    "accent": "#FDCB6E",
+    "dark": "#B71540",
+    "light": "#FFF0F0"
+  },
+  "tagline": "Expert Auto Services",
+  "services": [
+    "Car Wash",
+    "Detailing",
+    "Interior Cleaning",
+    "Waxing",
+    "Engine Cleaning",
+    "Paint Protection"
+  ]
+}
